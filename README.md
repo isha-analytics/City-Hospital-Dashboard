@@ -16,6 +16,7 @@ Identify patterns in admissions and discharges
 Track billing performance and revenue trends
 
 
+
 🗂️ Dataset Overview
 
 The dataset includes the following key fields:
@@ -31,6 +32,8 @@ The dataset includes the following key fields:
 🧾 Billing vs. Insurance Comparison
 
 
+
+
 📌 Key Insights Displayed
 
 📅 Monthly Admissions & Discharges
@@ -42,6 +45,8 @@ The dataset includes the following key fields:
 🧾 Billing vs. Insurance Comparison
 
 🛌 Bed Occupancy Rate
+
+
 
 
 🛠️ Tools Used
